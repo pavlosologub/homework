@@ -1,0 +1,6 @@
+x = float(40)
+y = float(20.75)
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)

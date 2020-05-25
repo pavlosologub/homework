@@ -1,0 +1,6 @@
+x = int(40)
+y = int(20.75)
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
